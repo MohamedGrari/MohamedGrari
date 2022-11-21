@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedGrari
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Docker 
+- 👀 I’m interested in Web/Mobile Developement & Machine Learning
+- 🌱 I’m currently learning Kubernetes 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : mohamed.grari@etudiant-fst.utm.tn
 
