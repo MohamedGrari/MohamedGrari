@@ -5,6 +5,5 @@
 - 📫 How to reach me : mohamed.grari@etudiant-fst.utm.tn
 
 <!---
-MohamedGrari/MohamedGrari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I am a software engineer looking to solve real world problem. I have passion for learning and sharing my knowledge with others. I am mostly interested by details behind complex systems & I am trying to learn something new every day!
 --->
